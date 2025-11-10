@@ -102,11 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc2452eb7bcbff549ac977eec36f619b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scoreText: {fileID: 0}
-  _scoreLoseText: {fileID: 0}
-  _losePanel: {fileID: 0}
-  _knifeUI: {fileID: 0}
-  _scoreUI: {fileID: 0}
+  _rotationSpeed: 150
 --- !u!58 &6038855866924421248
 CircleCollider2D:
   m_ObjectHideFlags: 0
