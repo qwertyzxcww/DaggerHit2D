@@ -1,8 +1,8 @@
-# KnifeHit3D
+# DaggerHit2D
 
 [![Unity 2020.3+](https://img.shields.io/badge/Unity-2020.3%2B-blue.svg)](https://unity.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**KnifeHit3D** — это 2D-аркада, вдохновлённая классической игрой Knife Hit. Бросайте ножи по вращающемуся кругу, набирайте очки!
+**DaggerHit2D** — это 2D-аркада, вдохновлённая классической игрой Knife Hit. Бросайте ножи по вращающемуся кругу, набирайте очки!
 
 ---
 
