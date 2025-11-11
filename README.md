@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ Dagger Hit 2D
+# ⚔️ DaggerHit 2D
 
 ![Unity](https://img.shields.io/badge/Unity-6.0%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
