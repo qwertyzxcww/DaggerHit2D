@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ DaggerHit 2D
+# ⚔️ DaggerHit
 
 ![Unity](https://img.shields.io/badge/Unity-6.0%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -10,7 +10,7 @@
 
 ---
 
-**DaggerHit 2D** — небольшой учебный 2D-проект, вдохновлённый классической игрой *Knife Hit*.  
+**DaggerHit** — небольшой учебный 2D-проект, вдохновлённый классической игрой *Knife Hit*.  
 Игрок бросает кинжалы в вращающееся бревно, стараясь не задеть уже воткнутые ножи и собирая яблоки.  
 Игра создана для практики основ **Unity** и **C#**.
 
